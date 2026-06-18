@@ -1,4 +1,4 @@
-# bird
+# birdwatcher
 Play with bird detection and recognition
 
 # Tech Stack
