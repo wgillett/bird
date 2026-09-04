@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# birdwatcher runtime data (SQLite db and saved crops)
+data/
